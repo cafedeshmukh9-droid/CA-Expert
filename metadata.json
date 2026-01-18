@@ -1,0 +1,8 @@
+{
+  "name": "CA Expert",
+  "description": "A comprehensive financial technology platform powered by Gemini, acting as a virtual Senior Chartered Accountant and Tech Expert for GST, Tax, and Data Analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
